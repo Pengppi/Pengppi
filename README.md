@@ -9,9 +9,9 @@
 
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=395" />
+<img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=395" />
 </p>
 
 
