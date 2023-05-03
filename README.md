@@ -1,5 +1,5 @@
 <p align="center">  
-  <a href="https://github.com/Pengppi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=System.out.println(%22Hello%EF%BC%8CWorld!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
+  <a href="https://github.com/Pengppi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=console.log(%22Hello%EF%BC%8CWorld!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
 </p>
 
 # Hi there 👋, I'm Neo
@@ -80,9 +80,9 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&card_width=300" />
 
-<img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=395" />
+<img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=370" />
 </p>
 
 
@@ -90,9 +90,9 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pengppi&radius=16&hide_border=true&theme=react-dark&bg_color=0d1117)](https://github.com/pengppi)
 
 <p align="center"> 
-  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=850&color=F7F7F7&center=true&vCenter=true&width=600&lines=Visitor+Count&repeat=false" alt="Typing SVG" />
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=3850&color=F7F7F7&center=true&vCenter=true&width=600&lines=Visitor+Count&repeat=true" alt="Typing SVG" />
   <br>
-  <img height=55px src="https://profile-counter.glitch.me/Pengppi/count.svg" />
+  <img height=40px src="https://profile-counter.glitch.me/Pengppi/count.svg" />
 </p>
 
 <br>
