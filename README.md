@@ -1,8 +1,11 @@
-<p align="center">  
+<div align="center">  
   <a href="https://github.com/Pengppi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=console.log(%22Hello%EF%BC%8CWorld!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
-</p>
+  <img width=90% src="https://cdn.jsdelivr.net/gh/pengppi/pengppi/assets/github-contribution-grid-snake-dark.svg" />
+</div>
 
-# Hi there 👋, I'm Neo
+
+
+#   Hi there 👋, I'm Neo
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs%2010%20mins-blue)
