@@ -79,10 +79,10 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&card_width=300" />
+<p align="center" >
+<img height=170px  src="https://github-readme-stats.vercel.app/api?username=Pengppi&show_icons=true&hide_title=false&count_private=true&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=370" />
+<img height=170px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengppi&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=395" />
 </p>
 
 
