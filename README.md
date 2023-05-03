@@ -1,6 +1,6 @@
 <div align="center">  
-  <a href="https://github.com/Pengppi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=console.log(%22Hello%EF%BC%8CWorld!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
-  <img width=100% src="https://cdn.jsdelivr.net/gh/pengppi/pengppi/assets/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/Pengppi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=45&pause=900&center=true&vCenter=true&width=800&height=45&lines=console.log(%22Hello%EF%BC%8CWorld!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
+  <img width=120%  src="https://cdn.jsdelivr.net/gh/pengppi/pengppi/assets/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
