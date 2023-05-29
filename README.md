@@ -89,7 +89,7 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pengppi&radius=16&hide_border=true&theme=react-dark&bg_color=0d1117)](https://github.com/pengppi)
+[![Pengppi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pengppi&radius=16&hide_border=true&theme=react-dark&bg_color=0d1117)](https://github.com/pengppi)
 
 <p align="center"> 
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=3850&color=F7F7F7&center=true&vCenter=true&width=600&lines=Visitor+Count&repeat=true" alt="Typing SVG" />
